@@ -1,1 +1,3 @@
 # zora-bot
+
+checking wallet
