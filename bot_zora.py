@@ -2,8 +2,8 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TELEGRAM_BOT_TOKEN = '7460498158:AAFqVffKROJ2R2fYDCvfVwLYnWqTA5yKzAE'
-COVALENT_API_KEY = 'cqt_rQwy8RPxvf6fvHk9FYqwyW4WrJXK'
+TELEGRAM_BOT_TOKEN = 'YourBOTAPI'
+COVALENT_API_KEY = 'YOURCOVALENTAPI'
 
 ZORA_CONTRACT = "0x1111111111166b7FE7bd91427724B487980aFc69"
 CHAIN_ID = "8453"  # Base Mainnet
